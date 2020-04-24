@@ -1,3 +1,5 @@
+> **✋ Provided as is, no support, no maintenance**
+
 # OctoPrint-CopyTerm
 
 Allows to copy lines from the terminal tab without Send/Recv prefixes.
