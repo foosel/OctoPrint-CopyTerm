@@ -33,6 +33,7 @@ class CopyTermPlugin(octoprint.plugin.AssetPlugin):
 
 
 __plugin_name__ = "CopyTerm Plugin"
+__plugin_pycompat__ = ">=2.7,<4"
 
 def __plugin_load__():
 	global __plugin_implementation__
